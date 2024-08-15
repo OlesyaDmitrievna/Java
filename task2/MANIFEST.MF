@@ -1,0 +1,1 @@
+Main-Class: ru.pflb.school5.javaOOP.Main2
