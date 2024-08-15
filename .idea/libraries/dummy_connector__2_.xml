@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dummy-connector (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/task2/src/main/resources/dummy-connector.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
